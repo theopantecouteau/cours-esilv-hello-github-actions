@@ -18,7 +18,11 @@ _Create a GitHub Action and use it in a workflow._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
+
+## Step 5: Trigger the workflow 🎯
+
 ## Finish
+
 
 _Congratulations friend, you've completed this course!_
 
